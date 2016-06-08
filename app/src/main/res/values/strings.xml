@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiplomAndroid</string>
+    <string name="mainMenu">Главное меню</string>
+    <string name="nameMann">Критерий Манна-Уитни</string>
+    <string name="nameKolmogorov">Критерий Колмогорова-Смирнова</string>
+    <string name="namePirson">Критерий Пирсона</string>
+</resources>
